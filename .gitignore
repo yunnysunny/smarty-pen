@@ -1,0 +1,11 @@
+/bin
+/coverage
+docker/*.output
+__debug_bin
+debug*
+launch.json
+/vendor
+/.idea
+*.exe
+/*.png
+/drawer
