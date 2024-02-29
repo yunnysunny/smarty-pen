@@ -1,0 +1,88 @@
+repo_name: yunnysunny/smarty-pen
+report_id: 726cf2c8e315a9b425f798b96b4f644b
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:54:59+00:00'
+requested_by: yunnysunny
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen
+  detection_source: Repo Metadata
+- name: freetype
+  description: The Freetype font rasterizer in the Go programming language
+  package_url: https://pkg.go.dev/github.com/golang/freetype
+  version: 0.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: yunnysunny
+  last_updated_on: 2022-02-19 12:37:22.000000000 Z
+- name: image
+  description: Go supplementary image libraries
+  package_url: https://pkg.go.dev/golang.org/x/image
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: yunnysunny
+  last_updated_on: 2022-02-19 12:37:22.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: yunnysunny
+  last_updated_on: 2022-02-19 12:37:22.000000000 Z
+- name: text
+  description: Go text processing support
+  package_url: https://pkg.go.dev/golang.org/x/text
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/yunnysunny/smarty-pen/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: yunnysunny
+  last_updated_on: 2022-02-19 12:37:22.000000000 Z
